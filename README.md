@@ -2,5 +2,6 @@
 - 👀 I’m interested in walkies with my dalmatian, gaming, coding
 - 🌱 I’m currently learning AWS
 - ⚡ Fun fact: founder of tricode and statusplus blustpende app
-![image]({[BadgeURLHere](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)})
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)}" />
 
